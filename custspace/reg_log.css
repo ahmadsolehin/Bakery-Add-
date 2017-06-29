@@ -1,0 +1,119 @@
+#title
+{
+	font-family: Copperplate Gothic Bold;
+	font-size: 40px;
+	text-align:center;
+}
+	
+#memberlogin
+{
+	border:1px solid #000000;
+	border-right: 3px solid #000000;
+	border-radius:10px;
+	background-image:url('themes/wallpaper/tab.png');
+	background-size:100% 100%;
+	color: #000000;
+	font-family: algerian;
+	font-size: 35px;
+	text-align: center;
+}
+	
+.menu_list
+{
+	color: #000000;
+	font-family: impact;
+	font-size: 25px;
+}
+	
+.menu_list:hover
+{
+	color: #000000;
+	font-family: impact;
+	font-size: 32px;
+}
+	
+.side-menu-bar
+{
+	height: 40px;
+	background-color:#ffffff;
+	border:1px solid #000000;
+	border-right: 3px solid #000000;
+	border-radius:20px;
+	text-align:center;
+	opacity:0.8;
+	filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+	
+.side-menu-bar:hover
+{
+	background-image:url('themes/wallpaper/tab.png');
+	background-size:100% 100%;
+	opacity:0.6;
+	filter:alpha(opacity=60); /* For IE8 and earlier */
+	text-align:center;
+}
+		
+.logout
+{
+	font-size: 12px;
+	font-family: Arial;
+	text-align: center;
+}
+
+th
+{
+	text-align: center;
+	font-family: Copperplate Gothic Bold;
+	font-size: 30px;
+}
+	
+td
+{
+	font-family:times new roman;
+}
+	
+.list
+{
+	font-family:times new roman;
+	font-size:20px;
+}
+	
+.reg-details
+{
+	text-align:right;
+	font-weight:bold;
+}
+		
+.textbox
+{
+	border:1px solid #000000;
+	border-right: 3px solid #000000;
+	border-top-right-radius:80px;
+	border-bottom-right-radius:80px;
+	border-top-left-radius:30px;
+	border-bottom-left-radius:30px;
+	font-family:Calibri;
+	font-size:18px;
+	margin: 5px;
+	padding: 2px;
+}
+		
+fieldset
+	{
+	font-family:arial;
+	font-size:15px;
+	border-radius:15px;
+}
+		
+.button
+{
+	color:#000000;
+	background-color:#FDD017;
+	font-family:Times New Roman;
+	font-size:20px;
+	border-top-right-radius:0px;
+	border-bottom-right-radius:18px;
+	border-top-left-radius:18px;
+	border-bottom-left-radius:0px;
+	font-weight:bold;
+}
